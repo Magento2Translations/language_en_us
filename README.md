@@ -1,0 +1,27 @@
+# American English (American English) Magento2 Language Pack (en_US)
+This is a Language Pack generated from the [official Magento2 translations project](https://crowdin.com/project/magento-2) at [Crowdin](https://crowdin.com).
+The American English (American English) translations used can be found [here](https://crowdin.com/project/magento-2/en).
+This translation is usefull for people living in the United States (United States).
+
+For our other language packs look at the [Magento2Translations](http://magento2translations.github.io/) page.
+
+# Instalation
+## Via composer
+To install this translation package with composer you need access to the command line of your server and you need to have [Composer](https://getcomposer.org).
+```
+cd <your magento path>
+composer require magento2translations/language_en_us:dev-master
+php bin/magento cache:clean
+```
+## Manually
+To install this language package manually you need access to your server file system.
+* Download the zip file [here](https://github.com/Magento2Translations/language_en_us/archive/master.zip).
+* Upload the contents to `<your magento path>/app/i18n/magento2translations/en_US`.
+* The composer files should then be located like this `<your magento path>/app/i18n/magento2translations/en_US/en_US.csv`.
+* Go to your Magento admin panel and clear the caches.
+
+#Usage
+To use this language pack login to your admin panel and goto `Stores -> Configuration -> General > General -> Locale options` and set the '*locale*' option as '*American English (United States)*'
+
+# Contribute
+To help push the '*American English (American English) Magento2 Language Pack (en_US)*' forward please goto [this](https://crowdin.com/project/magento-2/en) crowdin page and translate the lines.
