@@ -5,6 +5,12 @@ This translation is usefull for people living in the United States (United State
 
 For our other language packs look at the [Magento2Translations](http://magento2translations.github.io/) page.
 
+# Version & progress
+This translation is generated from the branch [2.0.2](https://crowdin.com/project/magento-2/en#/2.0.2) at Crowdin and based on the Magento 2.0.2 sourcefiles.
+There have been  1 strings translated of the 7776 strings in the Magento source.
+
+Translation progress:![Progress](http://progressed.io/bar/0)
+
 # Instalation
 ## Via composer
 To install this translation package with composer you need access to the command line of your server and you need to have [Composer](https://getcomposer.org).
