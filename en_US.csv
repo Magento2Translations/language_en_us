@@ -1,1 +1,3 @@
 "Reload Data","Daten neuladen",module,Magento_Backend
+"There was error during saving card data","There was an error during saving card data",module,Magento_Braintree
+"Display products availability in stock on Storefront.","Display product's availability in stock on Storefront.",module,Magento_CatalogInventory
