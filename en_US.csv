@@ -1,3 +1,20 @@
+"Mark as Read","Tandai sebagai membaca",module,Magento_AdminNotification
+Remove,Menghapus,module,Magento_AdminNotification
+"Messages Inbox","Pesan Kotak masuk",module,Magento_AdminNotification
+"You have %1 new system message","%1 yeni sistem mesajınız var",module,Magento_AdminNotification
+"Incoming Message","Pesan masuk",module,Magento_AdminNotification
+close,dekat,module,Magento_AdminNotification
+Notifications,Pemberitahuan,module,Magento_AdminNotification
+"A total of %1 record(s) have been marked as Read.","Toplamda %1 kayıt(kayıtlar) okundu olarak işaretlendi.",module,Magento_AdminNotification
+"Total of %1 record(s) have been removed.","Tüm kayıtların %1 i kaldırıldı.",module,Magento_AdminNotification
+"1 Hour","1 jam",module,Magento_AdminNotification
+"2 Hours","2 jam",module,Magento_AdminNotification
+"6 Hours","6 jam",module,Magento_AdminNotification
+critical,kritis,module,Magento_AdminNotification
+major,utama,module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{Base_url}} üs güvenlikli url yada üs güvenliksiz url beyan etmek için üretim çevresinde kullanılması tavsiye edilmez. Magento daki <ahref=“%1”>configuration</a> değerini değiştirmenizi şiddetle tavsiye ediyoruz.",module,Magento_AdminNotification
+"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Silakan buka <a href="" %1 ""> Manajemen Cache </a> dan segarkan jenis cache.",module,Magento_AdminNotification
+"Critical System Messages","Pesan Sistem Kritis",module,Magento_AdminNotification
 "Please correct the tab configuration and try again. Tab Id should be not empry","Please correct the tab configuration and try again. Tab ID should be not empty",module,Magento_Backend
 "Reload Data","Daten neuladen",module,Magento_Backend
 "There was error deleting the credit card","There was an error deleting the credit card",module,Magento_Braintree
@@ -12,4 +29,6 @@
 "%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType","%1 doesn't extend \Magento\Catalog\Model\Product\Type\AbstractType",module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Product\Type\Price","%1 doesn't extend \Magento\Catalog\Model\Product\Type\Price",module,Magento_Catalog
 "Product option with id %1 does not exist","Product option with ID %1 does not exist",module,Magento_Catalog
+"Update Frequency","Perbarui Frekuensi",module,Magento_AdminNotification
+Actions,Tindakan,module,Magento_AdminNotification
 "Display products availability in stock on Storefront.","Display product's availability in stock on Storefront.",module,Magento_CatalogInventory
