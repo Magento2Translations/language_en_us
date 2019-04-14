@@ -1,0 +1,12 @@
+"You have %1 new system message","%1 yeni sistem mesajınız var",module,Magento_AdminNotification
+"A total of %1 record(s) have been marked as Read.","Toplamda %1 kayıt(kayıtlar) okundu olarak işaretlendi.",module,Magento_AdminNotification
+"Total of %1 record(s) have been removed.","Tüm kayıtların %1 i kaldırıldı.",module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{Base_url}} üs güvenlikli url yada üs güvenliksiz url beyan etmek için üretim çevresinde kullanılması tavsiye edilmez. Magento daki <ahref=“%1”>configuration</a> değerini değiştirmenizi şiddetle tavsiye ediyoruz.",module,Magento_AdminNotification
+"One or more of the Cache Types are invalidated: %1. ","Önbellek Türlerinden bir veya daha fazlası geçersiz kılınmıştır: %1. ",module,Magento_AdminNotification
+"Reload Data","Daten neuladen",module,Magento_Backend
+"%1 doesn't extends \Magento\Framework\Model\AbstractModel","%1 doesn't extend \Magento\Framework\Model\AbstractModel",module,Magento_Catalog
+"%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\AbstractFilter",module,Magento_Catalog
+"%1 doesn't extends \Magento\Catalog\Model\Product\Option\Type\DefaultType","%1 doesn't extend \Magento\Catalog\Model\Product\Option\Type\DefaultType",module,Magento_Catalog
+"Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","Product doesn't have group price with such data: customerGroupId = '%1', website = %2, qty = %3",module,Magento_Catalog
+"%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType","%1 doesn't extend \Magento\Catalog\Model\Product\Type\AbstractType",module,Magento_Catalog
+"%1 doesn't extends \Magento\Catalog\Model\Product\Type\Price","%1 doesn't extend \Magento\Catalog\Model\Product\Type\Price",module,Magento_Catalog
