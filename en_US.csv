@@ -1,21 +1,8 @@
-"Mark as Read","Tandai sebagai membaca",module,Magento_AdminNotification
-Remove,Menghapus,module,Magento_AdminNotification
-"Messages Inbox","Pesan Kotak masuk",module,Magento_AdminNotification
 "You have %1 new system message","%1 yeni sistem mesajınız var",module,Magento_AdminNotification
-"Incoming Message","Pesan masuk",module,Magento_AdminNotification
-close,dekat,module,Magento_AdminNotification
-Notifications,Pemberitahuan,module,Magento_AdminNotification
 "A total of %1 record(s) have been marked as Read.","Toplamda %1 kayıt(kayıtlar) okundu olarak işaretlendi.",module,Magento_AdminNotification
 "Total of %1 record(s) have been removed.","Tüm kayıtların %1 i kaldırıldı.",module,Magento_AdminNotification
-"We couldn't remove the messages because of an error.","Kami tidak dapat menghapus pesan karena adanya kesalahan.",module,Magento_AdminNotification
-"1 Hour","1 jam",module,Magento_AdminNotification
-"2 Hours","2 jam",module,Magento_AdminNotification
-"6 Hours","6 jam",module,Magento_AdminNotification
-critical,kritis,module,Magento_AdminNotification
-major,utama,module,Magento_AdminNotification
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{Base_url}} üs güvenlikli url yada üs güvenliksiz url beyan etmek için üretim çevresinde kullanılması tavsiye edilmez. Magento daki <ahref=“%1”>configuration</a> değerini değiştirmenizi şiddetle tavsiye ediyoruz.",module,Magento_AdminNotification
-"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Silakan buka <a href="" %1 ""> Manajemen Cache </a> dan segarkan jenis cache.",module,Magento_AdminNotification
-"Critical System Messages","Pesan Sistem Kritis",module,Magento_AdminNotification
+"One or more of the Cache Types are invalidated: %1. ","Önbellek Türlerinden bir veya daha fazlası geçersiz kılınmıştır: %1. ",module,Magento_AdminNotification
 "Reload Data","Daten neuladen",module,Magento_Backend
 "%1 doesn't extends \Magento\Framework\Model\AbstractModel","%1 doesn't extend \Magento\Framework\Model\AbstractModel",module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\AbstractFilter",module,Magento_Catalog
@@ -23,6 +10,3 @@ major,utama,module,Magento_AdminNotification
 "Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","Product doesn't have group price with such data: customerGroupId = '%1', website = %2, qty = %3",module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType","%1 doesn't extend \Magento\Catalog\Model\Product\Type\AbstractType",module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Product\Type\Price","%1 doesn't extend \Magento\Catalog\Model\Product\Type\Price",module,Magento_Catalog
-"Show List","Tampilkan Daftar",module,Magento_AdminNotification
-"Update Frequency","Perbarui Frekuensi",module,Magento_AdminNotification
-Actions,Tindakan,module,Magento_AdminNotification
