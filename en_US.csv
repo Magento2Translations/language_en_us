@@ -1,22 +1,7 @@
-"Mark as Read","Tandai sebagai membaca",module,Magento_AdminNotification
-Remove,Menghapus,module,Magento_AdminNotification
-"Messages Inbox","Pesan Kotak masuk",module,Magento_AdminNotification
 "You have %1 new system message","%1 yeni sistem mesajınız var",module,Magento_AdminNotification
-"Incoming Message","Pesan masuk",module,Magento_AdminNotification
-close,dekat,module,Magento_AdminNotification
-Notifications,Pemberitahuan,module,Magento_AdminNotification
 "A total of %1 record(s) have been marked as Read.","Toplamda %1 kayıt(kayıtlar) okundu olarak işaretlendi.",module,Magento_AdminNotification
 "Total of %1 record(s) have been removed.","Tüm kayıtların %1 i kaldırıldı.",module,Magento_AdminNotification
-"We couldn't remove the messages because of an error.","Kami tidak dapat menghapus pesan karena adanya kesalahan.",module,Magento_AdminNotification
-"1 Hour","1 jam",module,Magento_AdminNotification
-"2 Hours","2 jam",module,Magento_AdminNotification
-"6 Hours","6 jam",module,Magento_AdminNotification
-critical,kritis,module,Magento_AdminNotification
-major,utama,module,Magento_AdminNotification
-"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Silakan buka <a href="" %1 ""> Manajemen Cache </a> dan segarkan jenis cache.",module,Magento_AdminNotification
-"Critical System Messages","Pesan Sistem Kritis",module,Magento_AdminNotification
+"One or more of the Cache Types are invalidated: %1. ","Önbellek Türlerinden bir veya daha fazlası geçersiz kılınmıştır: %1. ",module,Magento_AdminNotification
 "Reload Data","Daten neuladen",module,Magento_Backend
 "There was error during saving card data","There was an error during saving card data",module,Magento_Braintree
-"Update Frequency","Perbarui Frekuensi",module,Magento_AdminNotification
-Actions,Tindakan,module,Magento_AdminNotification
 "Display products availability in stock on Storefront.","Display product's availability in stock on Storefront.",module,Magento_CatalogInventory
