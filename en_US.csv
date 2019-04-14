@@ -1,0 +1,13 @@
+"You have %1 new system message","%1 yeni sistem mesajınız var",module,Magento_AdminNotification
+"A total of %1 record(s) have been marked as Read.","Toplamda %1 kayıt(kayıtlar) okundu olarak işaretlendi.",module,Magento_AdminNotification
+"Total of %1 record(s) have been removed.","Tüm kayıtların %1 i kaldırıldı.",module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{Base_url}} üs güvenlikli url yada üs güvenliksiz url beyan etmek için üretim çevresinde kullanılması tavsiye edilmez. Magento daki <ahref=“%1”>configuration</a> değerini değiştirmenizi şiddetle tavsiye ediyoruz.",module,Magento_AdminNotification
+"One or more of the Cache Types are invalidated: %1. ","Önbellek Türlerinden bir veya daha fazlası geçersiz kılınmıştır: %1. ",module,Magento_AdminNotification
+"Reload Data","Daten neuladen",module,Magento_Backend
+"
+                    See PayPal Feature Support details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.
+                ","
+See PayPal Feature Support details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.
+                ",module,Magento_Paypal
